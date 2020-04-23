@@ -1,0 +1,13 @@
+{
+  "version" : 1,
+  "sound-list": [
+    {
+      "name": "forest",
+      "url": "https://github.com/ozandev/nature-sounds/raw/master/forest.mp3"
+    },{
+      "name": "camp",
+      "url": "https://github.com/ozandev/nature-sounds/raw/master/camp.mp3"
+    }
+
+  ]
+}
